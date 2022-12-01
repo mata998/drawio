@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T20:26:28.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4UMjTJ7HX1ZKs5fKCd_F" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T20:36:20.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dVv7iEeV8d9slYKH2CaQ" version="20.5.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="798" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,8 +235,8 @@
             <mxPoint x="157.0000000000001" y="1314.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNXLNVModOLR4Hm1-tlC-1" value=":Forma" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=30;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1040" width="100" height="200" as="geometry" />
+        <mxCell id="KNXLNVModOLR4Hm1-tlC-1" value=":Forma" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=13;align=center;size=30;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1040" width="100" height="200" as="geometry" />
         </mxCell>
         <mxCell id="KNXLNVModOLR4Hm1-tlC-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="KNXLNVModOLR4Hm1-tlC-1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
@@ -245,6 +245,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="569.4100000000001" y="1553" as="sourcePoint" />
             <mxPoint x="569.4100000000001" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNXLNVModOLR4Hm1-tlC-6" value="POST /admin/courses" style="endArrow=classic;html=1;rounded=0;fontSize=13;verticalAlign=bottom;exitX=0.981;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.018;entryY=0.251;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KNXLNVModOLR4Hm1-tlC-2" target="IocJc1wikba0ixcSGBsc-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1140" as="sourcePoint" />
+            <mxPoint x="633" y="1226.1000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNXLNVModOLR4Hm1-tlC-8" value="&quot;Neuspesno kreiranje&quot;" style="endArrow=classic;html=1;rounded=0;fontSize=13;verticalAlign=bottom;exitX=-0.022;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.035;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IocJc1wikba0ixcSGBsc-12" target="KNXLNVModOLR4Hm1-tlC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="696.6199999999999" y="1194.812" as="sourcePoint" />
+            <mxPoint x="420" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
