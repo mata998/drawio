@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T20:02:11.101Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OdrFsQJIborkYE-6wGuw" version="21.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-03T20:04:02.500Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8RpFgxZYHsDG4iAR4ttA" version="21.6.6" type="github" pages="4">
   <diagram name="Page-1" id="2LevrXQxvPdMQUBmHrdK">
     <mxGraphModel dx="1050" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="/addUserDetail" id="kIvDtGktiO-tDzG6qo6h">
-    <mxGraphModel dx="2100" dy="1018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uhF5WfQQLpJixNbhCBvt-0" />
         <mxCell id="uhF5WfQQLpJixNbhCBvt-1" parent="uhF5WfQQLpJixNbhCBvt-0" />
@@ -317,11 +317,14 @@
         <mxCell id="TmX0YYLUfbePErKlg0Sn-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;return &lt;/b&gt;&#39;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Item successfully added to dynamodb table&#39;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="uhF5WfQQLpJixNbhCBvt-1" vertex="1">
           <mxGeometry x="448" y="242" width="382" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="z1pGz1p_yNAghgxkesX5-0" value="insert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uhF5WfQQLpJixNbhCBvt-1">
+          <mxGeometry x="480" y="80" width="47" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="/getVotes" id="IxRxilTH8AB6MOQi1brG">
-    <mxGraphModel dx="1615" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="X8grZtQtbw_FlxkzwQaW-0" />
         <mxCell id="X8grZtQtbw_FlxkzwQaW-1" parent="X8grZtQtbw_FlxkzwQaW-0" />
@@ -411,17 +414,26 @@
             <mxPoint x="596" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oK8XVXJVRRYEmFq7nKa1-0" value="&lt;div&gt;[&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; trackid: &#39;radio-538-mata_2023_20&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; voters: 100,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; votes: 20,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; title: &#39;Dreadlock holiday&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; artistName: &#39;10CC&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; trackid: &#39;radio-538-mata_2023_15&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; voters: 90,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; votes: 15,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; title: &quot;Song 2&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; artistName: &#39;Artist 2&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+        <mxCell id="oK8XVXJVRRYEmFq7nKa1-0" value="&lt;div&gt;[&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; trackid: &#39;radio-538-mata_2023_20&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; voters: 100,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; votes: 20,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; title: &#39;Dreadlock holiday&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; artistName: &#39;10CC&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; trackid: &#39;radio-538-mata_2023_15&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; voters: 90,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; votes: 15,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; title: &quot;Song 2&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; artistName: &#39;Artist 2&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="X8grZtQtbw_FlxkzwQaW-1" vertex="1">
           <mxGeometry x="397.83000000000004" y="583" width="223" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="AXjMvEkmrU8-biUnLRvK-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;aggregatedVotes&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+        <mxCell id="AXjMvEkmrU8-biUnLRvK-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;aggregatedVotes&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="X8grZtQtbw_FlxkzwQaW-1" vertex="1">
           <mxGeometry x="204" y="691" width="139" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="ms59C5XXP6gxVprY6BJr-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;return&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+        <mxCell id="ms59C5XXP6gxVprY6BJr-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;return&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="X8grZtQtbw_FlxkzwQaW-1" vertex="1">
           <mxGeometry x="192" y="948" width="64" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="ms59C5XXP6gxVprY6BJr-1" value="&lt;div&gt;{&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; aggregatedVotes&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+        <mxCell id="ms59C5XXP6gxVprY6BJr-1" value="&lt;div&gt;{&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; aggregatedVotes&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="X8grZtQtbw_FlxkzwQaW-1" vertex="1">
           <mxGeometry x="310" y="936" width="157" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XIV-DZgKLqRWuZZwS0bG-0" value="query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+          <mxGeometry x="474" y="74" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIV-DZgKLqRWuZZwS0bG-1" value="listid: radio-538-mata&lt;br&gt;roundId: 2023" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+          <mxGeometry x="455" y="20" width="130" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="XIV-DZgKLqRWuZZwS0bG-2" value="getTracks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X8grZtQtbw_FlxkzwQaW-1">
+          <mxGeometry x="880" y="230" width="70" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
