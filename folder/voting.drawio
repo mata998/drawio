@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T20:16:12.245Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZbbHmJ1JEDlRGwjFXXRJ" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-03T20:16:44.350Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NSAc0f5o1_tBZjiEEytM" version="21.6.6" type="github" pages="5">
   <diagram name="Endpoints" id="2LevrXQxvPdMQUBmHrdK">
     <mxGraphModel dx="1050" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
             <mxGeometry x="37" y="456" width="347" height="31" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;GET&amp;nbsp; &amp;nbsp;&amp;nbsp;/getActiveVotings&lt;/font&gt;" id="P0PF1tLYmKZxMy8f_t2--5">
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;GET&amp;nbsp; &amp;nbsp;&amp;nbsp;/getActiveVotings&lt;/font&gt;" link="data:page/id,06pBDo153Qa0Q0SxrnJO" id="P0PF1tLYmKZxMy8f_t2--5">
           <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="39" y="507" width="191" height="31" as="geometry" />
           </mxCell>
@@ -438,7 +438,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of /getVotes" id="06pBDo153Qa0Q0SxrnJO">
+  <diagram name="/getActiveVotings" id="06pBDo153Qa0Q0SxrnJO">
     <mxGraphModel dx="1313" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OZ1egT6pCNdmqE9wVzko-0" />
