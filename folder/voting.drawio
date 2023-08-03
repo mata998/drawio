@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T19:21:34.058Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2VP15BpXVMZV1lFZR3Yh" version="21.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-03T20:02:11.101Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OdrFsQJIborkYE-6wGuw" version="21.6.6" type="github" pages="4">
   <diagram name="Page-1" id="2LevrXQxvPdMQUBmHrdK">
     <mxGraphModel dx="1050" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KczP2BiqZ5QFeVYxqaPX" name="/getUserInfoData">
-    <mxGraphModel dx="1500" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,11 +261,26 @@
         <mxCell id="IGi9GeIpJ3bp78Cr85qQ-35" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; userData: { ...userData, ...userDetail },&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; userVotes: votesWithTrackData&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="299" y="1766" width="315" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FGciAqmvgFPLmEhiKgpJ-1" value="listId: radio-538-mata&lt;br&gt;roundId: 2023&lt;br&gt;userId: user-id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="466" y="9" width="131" height="55" as="geometry" />
+        <mxCell id="FGciAqmvgFPLmEhiKgpJ-1" value="listId: radio-538-mata&lt;br&gt;roundId: 2023&lt;br&gt;userId: user-id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="472" y="9" width="131" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="FGciAqmvgFPLmEhiKgpJ-2" value="listId: radio-538-mata&lt;br&gt;roundId: 2023&lt;br&gt;userId: user-id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FGciAqmvgFPLmEhiKgpJ-2" value="listId: radio-538-mata&lt;br&gt;roundId: 2023&lt;br&gt;userId: user-id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="461" y="1000" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gBMaaF5crWKfmB1KKzvl-1" value="query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="477" y="69" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gBMaaF5crWKfmB1KKzvl-2" value="getTracks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="874" y="237" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gBMaaF5crWKfmB1KKzvl-3" value="query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1068" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gBMaaF5crWKfmB1KKzvl-4" value="query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1422" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gBMaaF5crWKfmB1KKzvl-5" value="userId: user-id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="1384" width="95" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
