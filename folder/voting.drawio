@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T12:36:44.616Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-rbNUSrFgWLibY18XbzM" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T13:34:47.653Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Tn8JGO8yyk12txUmOieJ" version="21.6.6" type="github" pages="2">
   <diagram name="Page-1" id="2LevrXQxvPdMQUBmHrdK">
     <mxGraphModel dx="2100" dy="1274" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -223,6 +223,14 @@
         <mxCell id="g3iPQCYrMhhcmxUZ1taj-86" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; userData: { ...userData, ...userDetail },&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; userVotes: votesWithTrackData&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="2020" width="315" height="84" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KczP2BiqZ5QFeVYxqaPX" name="/getUserInfoData">
+    <mxGraphModel dx="1050" dy="637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
